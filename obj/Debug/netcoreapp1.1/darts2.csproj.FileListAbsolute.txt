@@ -1,0 +1,16 @@
+c:\Source\codeworks\darts2\bin\Debug\netcoreapp1.1\darts2.deps.json
+c:\Source\codeworks\darts2\bin\Debug\netcoreapp1.1\darts2.runtimeconfig.json
+c:\Source\codeworks\darts2\bin\Debug\netcoreapp1.1\darts2.runtimeconfig.dev.json
+c:\Source\codeworks\darts2\bin\Debug\netcoreapp1.1\darts2.dll
+c:\Source\codeworks\darts2\bin\Debug\netcoreapp1.1\darts2.pdb
+c:\Source\codeworks\darts2\obj\Debug\netcoreapp1.1\darts2.AssemblyInfo.cs
+c:\Source\codeworks\darts2\obj\Debug\netcoreapp1.1\darts2.dll
+c:\Source\codeworks\darts2\obj\Debug\netcoreapp1.1\darts2.pdb
+c:\Source\codeworks\darts\bin\Debug\netcoreapp1.1\darts2.deps.json
+c:\Source\codeworks\darts\bin\Debug\netcoreapp1.1\darts2.runtimeconfig.json
+c:\Source\codeworks\darts\bin\Debug\netcoreapp1.1\darts2.runtimeconfig.dev.json
+c:\Source\codeworks\darts\bin\Debug\netcoreapp1.1\darts2.dll
+c:\Source\codeworks\darts\bin\Debug\netcoreapp1.1\darts2.pdb
+c:\Source\codeworks\darts\obj\Debug\netcoreapp1.1\darts2.AssemblyInfo.cs
+c:\Source\codeworks\darts\obj\Debug\netcoreapp1.1\darts2.dll
+c:\Source\codeworks\darts\obj\Debug\netcoreapp1.1\darts2.pdb
